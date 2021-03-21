@@ -24,5 +24,5 @@ Thank You!
 
 Installation:
 Python3.6 or newer
-pip install pygame
-pip install sockets
+
+pip install pygame,sockets
