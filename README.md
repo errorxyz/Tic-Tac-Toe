@@ -10,7 +10,9 @@ running the 'server' file and then run the files in the respective
 devices. In order to find the local IP Address of the device running
 the 'server' file, open Command Prompt in windows and enter 'ipconfig'.
 A line in the output will be similar to the line below:
+
 IPv4 Address . . . . . . . . . . . : 192.168.x.x
+
 Copy this number, modify the host variable and you are good to go!
 
 
